@@ -1,0 +1,5 @@
+/.project
+*.pro.user.*
+build-*
+*.autosave
+
