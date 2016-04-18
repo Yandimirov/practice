@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>wall.jpg</file>
+    </qresource>
+    <qresource prefix="/sh">
+        <file>CubeShader.frag</file>
+        <file>CubeShader.vert</file>
+        <file>FloorShader.frag</file>
+        <file>FloorShader.vert</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Abyssinica_SIL.ttf</file>
+    </qresource>
+</RCC>
